@@ -4,7 +4,7 @@
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "- Correction mineure\n- Amélioration du démarrage\n- Mise à jour automatique Windows/macOS",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.0/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.2/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -13,7 +13,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.0/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.2/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
