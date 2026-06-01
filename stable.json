@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "buildNumber": "2",
+  "version": "1.0.3",
+  "buildNumber": "4",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "mise a jour des users avec le design",
+  "releaseNotes": "ajoute d'un nouveau type pour les comptes dans consultation / modification du tableau de bord",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.2/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.3/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -13,7 +13,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.2/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.3/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
