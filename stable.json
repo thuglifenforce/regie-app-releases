@@ -2,7 +2,7 @@
   "version": "1.0.4",
   "buildNumber": "5",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "ajoute du copie coller , ajout de la colonne mandat , redesign de la pages des regies",
+  "releaseNotes": "Ajout de la fonctionnalité de copier-coller, Ajout de la colonne « Mandat », Refonte graphique de la page des régies",
   "windows": {
     "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.4/SOFinances.exe",
     "fileName": "SOFinances.exe",
@@ -17,3 +17,4 @@
     "fileName": "SOFinances.exe"
   }
 }
+
