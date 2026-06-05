@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "buildNumber": "9",
+  "version": "1.0.9",
+  "buildNumber": "10",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "modification du PAI / TMS et PDF dans la régule etc...",
+  "releaseNotes": "modification du PAI / TMS et PDF dans la régule, modification de la recherche et tries etc...",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.8/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.9/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -13,7 +13,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.8/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.9/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
