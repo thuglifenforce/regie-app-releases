@@ -9,7 +9,9 @@
     "launchArguments": [
       "/VERYSILENT",
       "/SUPPRESSMSGBOXES",
-      "/NORESTART"
+      "/NORESTART",
+      "/CLOSEAPPLICATIONS",
+      "/RESTARTAPPLICATIONS"
     ]
   },
   "macos": {
