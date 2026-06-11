@@ -1,10 +1,10 @@
 {
-  "version": "1.0.18",
-  "buildNumber": "19",
+  "version": "1.0.19",
+  "buildNumber": "20",
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "MISE A JOUR DE BUG ET TEST",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.18/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.19/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.18/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.19/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
