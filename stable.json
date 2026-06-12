@@ -1,10 +1,10 @@
 {
-  "version": "1.0.19",
-  "buildNumber": "20",
+  "version": "1.0.20",
+  "buildNumber": "21",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Ajout des commentaires pour les comptes DFT des régisseurs",
+  "releaseNotes": "Modification du PDF et EXCEL, Consultation, PAI, Réclamation, etc...",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.19/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.20/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.19/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.20/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
