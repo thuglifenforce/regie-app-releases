@@ -2,7 +2,7 @@
   "version": "1.0.27",
   "buildNumber": "28",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "mise a jour",
+  "releaseNotes": "mise a jour en build 28",
   "windows": {
     "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.27/SOFinances.exe",
     "fileName": "SOFinances.exe",
