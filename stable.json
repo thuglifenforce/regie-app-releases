@@ -2,7 +2,7 @@
   "version": "1.0.31",
   "buildNumber": "32",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Ajout du tableau gestion RR et RA avec des modifications des bugs et PDF",
+  "releaseNotes": "Ajout du tableau gestion RR et RA avec des modifications des bugs et PDF à test",
   "windows": {
     "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.31/SOFinances.exe",
     "fileName": "SOFinances.exe",
