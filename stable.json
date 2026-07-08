@@ -1,10 +1,10 @@
 {
-  "version": "1.0.53",
-  "buildNumber": "54",
+  "version": "1.0.54",
+  "buildNumber": "55",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Ajout d’une fonctionnalité dans la partie « Consultation » et dans les comptes de type « Dotation ». Cette fonctionnalité permet d’effectuer un copier-coller des informations telles que le tiers, le CRB, l’imputation, etc Demande effectuée par Mme ROUX",
+  "releaseNotes": "Ajout d’une fonctionnalité dans la partie « Consultation » et dans les comptes de type « Dotation ». Cette fonctionnalité permet d’effectuer un copier-coller des informations telles que le tiers, le CRB, l’imputation, etc Demande effectuée par Mme ROUX, correction du bug page pointage",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.53/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.54/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.53/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.54/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
