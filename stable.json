@@ -1,10 +1,10 @@
 {
-  "version": "1.0.55",
-  "buildNumber": "56",
+  "version": "1.0.56",
+  "buildNumber": "57",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Correction des bugs dans le module de consultation, correction du compte 47138, correction du type « Subvention » et résolution des problèmes provoqués par un copier-coller ayant entraîné plusieurs dysfonctionnements. MERCI MADAME ROUX 😉",
+  "releaseNotes": "Ajout des pages Mes taches et mes notes😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.55/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.56/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.55/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.56/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
