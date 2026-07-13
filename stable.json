@@ -1,10 +1,10 @@
 {
-  "version": "1.0.56",
-  "buildNumber": "57",
+  "version": "1.0.57",
+  "buildNumber": "58",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Ajout des pages Mes taches et mes notes😉",
+  "releaseNotes": "Ajout des pages Mes taches et mes notes, préconisations etc....😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.56/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.57/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.56/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.57/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
