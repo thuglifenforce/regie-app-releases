@@ -1,10 +1,10 @@
 {
-  "version": "1.0.71",
-  "buildNumber": "72",
+  "version": "1.0.72",
+  "buildNumber": "73",
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "Ajout de l’option permettant de supprimer une déduction dans un bon de commande, modification des couleurs des statuts dans « Régie membres », ajout d’un nouveau statut ainsi que d’un champ de commentaire lié au statut, etc. 😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.71/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.72/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.71/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.72/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
