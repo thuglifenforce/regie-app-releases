@@ -1,10 +1,10 @@
 {
-  "version": "1.0.74",
-  "buildNumber": "75",
+  "version": "1.0.75",
+  "buildNumber": "76",
   "publishedAt": "2026-05-29T12:00:00Z",
-  "releaseNotes": "Ajout, dans le suivi des régies, d’une séparation des statuts au niveau de Création et Membres. Modification, dans le suivi des remises de régie, du système de gestion des remises et de leur rattachement, ainsi que diverses améliorations etc... 😉",
+  "releaseNotes": " Modification des conditions d’importation du fichier de comptes dans la rubrique Consultation. Ajout, dans la rubrique Réclamation, de la possibilité de dupliquer une ligne etc... 😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.74/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.75/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.74/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.75/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
