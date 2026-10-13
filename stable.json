@@ -4,7 +4,7 @@
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "Ajout de deux fonctionnalités dans l’onglet Comparaison : séparation automatique des lots de factures PDF par nombre et par utilisateur, et détection des anomalies sur l’ensemble des factures.😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.77/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.78/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.77/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.78/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
