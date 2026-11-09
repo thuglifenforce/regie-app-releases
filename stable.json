@@ -1,10 +1,10 @@
 {
-  "version": "1.0.80",
-  "buildNumber": "81",
+  "version": "1.0.81",
+  "buildNumber": "82",
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "Ajout de l’onglet Rejets pour les dépenses, ajout de l’onglet SVS (en cours d’évolution) et ajout de l’imputation dans les bons de commande.😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.80/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.81/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.80/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.81/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
