@@ -1,10 +1,10 @@
 {
-  "version": "1.0.86",
-  "buildNumber": "87",
+  "version": "1.0.87",
+  "buildNumber": "86",
   "publishedAt": "2026-05-29T12:00:00Z",
   "releaseNotes": "Nouveau design : thème violet et interface plus claire, plus rapide sous Windows.Process de facturation : suivi mensuel étape par étape, avec captures annotées (pastilles), validation finale, fiche 0-2, Tableau PJ et 3 volets imprimables.Calendrier de facturation : dates clés et catégories colorées pour tout le monde.PDF : logo de la Ville de Saint-Ouen-sur-Seine, nouvelle mise en page et pied de page numéroté sur tous les documents.Profil et Administration : refaits pour être plus lisibles, avec un menu « ⋯ » sur chaque ligne pour modifier ou supprimer, correction du bug de la fenêtre détachable  etc PS : bientôt préparez-vous a passer sur EXCEL MOUAHHHHHHHHH😉",
   "windows": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.86/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.87/SOFinances.exe",
     "fileName": "SOFinances.exe",
     "launchArguments": [
       "/VERYSILENT",
@@ -15,7 +15,7 @@
     ]
   },
   "macos": {
-    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.86/SOFinances.exe",
+    "url": "https://github.com/thuglifenforce/regie-app-releases/releases/download/v1.0.87/SOFinances.exe",
     "fileName": "SOFinances.exe"
   }
 }
